@@ -1,4 +1,4 @@
 # tcc_2021
 
-Como o Github só permite uploads de arquivos de até 25MB, os datasets utilizados foram compactados antes de serem adicionados.
-Eles podem ser acessados no seguinte link: https://www.kaggle.com/olistbr/brazilian-ecommerce.
+Projeto de TCC para conclusão da Pós Graduação em Ciência de Dados da PUC Minas.
+Os datasets utilizados podem ser acessados no seguinte link: https://www.kaggle.com/olistbr/brazilian-ecommerce.
